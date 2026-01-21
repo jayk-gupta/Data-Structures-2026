@@ -1,5 +1,4 @@
 package LeetCode.Arrays.Easy;
-
 import java.util.Arrays;
 import java.util.HashMap;
 
