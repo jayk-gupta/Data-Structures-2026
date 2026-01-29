@@ -19,8 +19,7 @@ public class MovesZeroes {
                 nums[i] = nums[j];
                 nums[j] = temp;
                 j--;
-            }
-            else{
+            } else {
                 i++;
             }
         }
